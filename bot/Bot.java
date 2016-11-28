@@ -5,9 +5,15 @@ import org.json.JSONObject;
 /**
  * Write a description of class Bot here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Devin Mui
+ * @version 0.0.0.1
  */
+
+/**
+*
+* Sends an HTTP request to a server and gets the response
+*
+*/
 public class Bot
 {
     public static void main() throws UnirestException{

@@ -10,19 +10,19 @@ Welcome to a new kind of AI (not really).
 Just talk to me and I'll communicate with my Python back end to talk to you!
 
 Have Fun!
-> Hello
+: Hello
 How is life?
-> Good how about you?
+: Good how about you?
 It is good
-> Nice!
+: Nice!
 clear
-> Ok
+: Ok
 How is life?
-> Good!
+: Good!
 Great
-> Yes
+: Yes
 clear
-> :q
+: :q
 Bye!!
 
 

@@ -6,7 +6,7 @@
 
 ### Sample Log
 
-`Welcome to a new kind of AI (not really). 
+Welcome to a new kind of AI (not really). 
 Just talk to me and I'll communicate with my Python back end to talk to you!
 
 Have Fun!
@@ -24,7 +24,7 @@ Great
 clear
 > :q
 Bye!!
-`
+
 
 ### Program Highlights/Description
 
